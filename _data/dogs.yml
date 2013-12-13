@@ -1,0 +1,21 @@
+rover:
+  color: black
+  breed: lab
+  age: 6 months
+  
+ernie:
+  color: yellow
+  breed: mutt
+  age: 11 months
+  
+grace:
+  breed: labradoodle
+  age: 3 years
+  color: goldish
+  
+bo:
+  owner: POTUS
+  breed: portugese water dog
+  color: black and white
+  age: 5 years
+  
